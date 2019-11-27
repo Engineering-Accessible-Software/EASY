@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Spring 2019 List of Papers
 
-You can use the [editor on GitHub](https://github.com/Engineering-Accessible-Software/EASY/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Accessible software for IBSVI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. [Visual challenges in the everyday lives of blind people] (https://doi-org.ezproxy.rit.edu/10.1145/2470654.2481291)
+2. [Feasibility of using haptic directions through maps with a tablet and smart watch for people who are blind and visually impaired] (http://dx.doi.org.ezproxy.rit.edu/10.1145/2935334.2935367)
+3. [B#: chord-based correction for multitouch braille input] (http://dx.doi.org.ezproxy.rit.edu/10.1145/2556288.2557269)
+4. [Faster Text-to-Speeches: Enhancing Blind People's Information Scanning with Faster Concurrent Speech] (http://dx.doi.org.ezproxy.rit.edu/10.1145/2700648.2809840)
+5. [Design and Real-World Evaluation of Eyes-Free Yoga: An Exergame for Blind and Low-Vision Exercise] (https://doi-org.ezproxy.rit.edu/10.1145/3022729)
+6. [VizWiz: nearly real-time answers to visual questions] (http://dx.doi.org.ezproxy.rit.edu/10.1145/1866029.1866080)
+7. [Improving public transit accessibility for blind riders by crowdsourcing bus stop landmark locations with Google street view] (http://dx.doi.org.ezproxy.rit.edu/10.1145/2513383.2513448)
+8. [On the Evaluation of Novel Sonification Techniques for Non-Visual Shape Exploration] (https://doi-org.ezproxy.rit.edu/10.1145/3046789)
+9. [Designing auditory cues to enhance spoken mathematics for visually impaired users] (http://dx.doi.org.ezproxy.rit.edu/10.1145/1878803.1878819)
+10. [MathMelodies 2: a Mobile Assistive Application for People with Visual Impairments Developed with React Native] (https://dl-acm-org.ezproxy.rit.edu/citation.cfm?id=3241006)
+11. [Collaborative Editing: Collaboration, Awareness and Accessibility Issues for the Blind] (https://dl.acm.org/citation.cfm?id=2939613)
+12. [The Effects of "Not Knowing What You Don't Know" on Web Accessibility for Blind Web Users] (https://dl.acm.org/citation.cfm?id=3132533)
+13. [Investigating Microinteractions for People with Visual Impairments and the Potential Role of On-Body Interaction] (https://dl.acm.org/citation.cfm?id=3132536)
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Engineering-Accessible-Software/EASY/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

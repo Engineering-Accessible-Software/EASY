@@ -2,7 +2,7 @@
 
 
 
-### Accessible Software for IBSVI
+### Accessibility for Blind and Visually Impaired Individuals
 
 1. [Visual challenges in the everyday lives of blind people](https://dl.acm.org/citation.cfm?id=2481291)
 2. [Feasibility of using haptic directions through maps with a tablet and smart watch for people who are blind and visually impaired](https://dl.acm.org/citation.cfm?id=2935367)
@@ -18,7 +18,7 @@
 12. [The Effects of "Not Knowing What You Don't Know" on Web Accessibility for Blind Web Users](https://dl.acm.org/citation.cfm?id=3132533)
 13. [Investigating Microinteractions for People with Visual Impairments and the Potential Role of On-Body Interaction](https://dl.acm.org/citation.cfm?id=3132536)
 
-### Accessible Software for Deaf/HH
+### Accessibility for Deaf/HH Individuals
 1. [A mean for communication between deaf and hearing pairs in inclusive educational settings: the Sessai app](https://dl.acm.org/citation.cfm?id=2746677)
 2. [The Use of Smart Glasses for Lecture Comprehension by Deaf and Hard of Hearing Students](https://dl.acm.org/citation.cfm?id=3053117)
 3. [Closed ASL Interpreting for Online Videos](https://dl.acm.org/citation.cfm?id=2982147)
@@ -43,7 +43,7 @@
 8. [Accessible Human-Error Interactions in AI Applications for the Blind](https://dl.acm.org/citation.cfm?id=3267321)
 9. [Blink and wink detection for mouse pointer control](https://dl.acm.org/citation.cfm?id=1839322)
 
-### Learning Disabilities
+### Accessibility for People with Learning Disabilities
 1. [Developing an interface to support procedural memory training using a participatory-based approach](https://dl.acm.org/citation.cfm?id=2377962)
 2. [TangiPlan: designing an assistive technology to enhance executive functioning among children with adhd](https://dl.acm.org/citation.cfm?id=2610475)
 3. [Changing Family Practices with Assistive Technology: MOBERO Improves Morning and Bedtime Routines for Children with ADHD](https://dl.acm.org/citation.cfm?id=2858157)
@@ -70,7 +70,7 @@
 10. [An analysis on tools for accessibility evaluation in mobile applications](https://dl.acm.org/citation.cfm?id=3266238)
 11. [Usability Testing - An Aphasia Perspective](https://dl.acm.org/citation.cfm?id=3241481)
 
-### Older Adults
+### Accessibility for Older Adults
 1. [Older People and Social Participation: From Touch-Screens to Virtual Realities](https://dl.acm.org/citation.cfm?id=2996271)
 2. [Typing Tutor: Individualized Tutoring in Text Entry for Older Adults Based on Input Stumble Detection](https://dl.acm.org/citation.cfm?id=2858455)
 3. [Cow Milking Game: Evaluating a Serious Game for Cognitive Stimulation with an Elderly Population](https://dl.acm.org/citation.cfm?id=2996272)
@@ -83,7 +83,7 @@
 10. [Towards Ability-Based Optimization for Aging Users](https://dl.acm.org/citation.cfm?id=2996275)
 11. [Developing accessible TV applications](https://dl.acm.org/citation.cfm?id=2049561)
 
-### People with Motor Impairment
+### Accessibility for People with Motor Impairment
 1. [The one-key challenge: searching for a fast one-key text entry method](https://dl.acm.org/citation.cfm?id=1639660)
 2. [A mobile phone based personal narrative system](https://dl.acm.org/citation.cfm?id=2049568)
 3. [Phoneme-based predictive text entry interface](https://dl.acm.org/citation.cfm?id=2661424)

@@ -33,29 +33,29 @@
 12. [Towards More Robust Speech Interactions for Deaf and Hard of Hearing Users](https://dl.acm.org/citation.cfm?id=3236343)
 
 ### Machine Learning for Accessibility
-1. Modeling Expertise in Assistive Navigation Interfaces for Blind People
-2. Increasing web accessibility by automatically judging alternative text quality
-3. Multimodal Deep Learning using Images and Text for Information Graphic Classification
-4. Spatial and temporal pyramids for grammatical expression recognition of American sign language
-5. CAVIAR: a vibrotactile device for accessible reaching
-6. Non-visual skimming on touch-screen devices
-7. TrueKeys: identifying and correcting typing errors for people with motor impairments
-8. Accessible Human-Error Interactions in AI Applications for the Blind
-9. Blink and wink detection for mouse pointer control
+1. [Modeling Expertise in Assistive Navigation Interfaces for Blind People](https://dl.acm.org/citation.cfm?id=3173008)
+2. [Increasing web accessibility by automatically judging alternative text quality](https://dl.acm.org/citation.cfm?id=1216364)
+3. [Multimodal Deep Learning using Images and Text for Information Graphic Classification](https://dl.acm.org/citation.cfm?id=3236357)
+4. [Spatial and temporal pyramids for grammatical expression recognition of American sign language](https://dl.acm.org/citation.cfm?id=1639657)
+5. [CAVIAR: a vibrotactile device for accessible reaching](https://dl.acm.org/citation.cfm?id=2167009)
+6. [Non-visual skimming on touch-screen devices](https://dl.acm.org/citation.cfm?id=2449452)
+7. [TrueKeys: identifying and correcting typing errors for people with motor impairments](https://dl.acm.org/citation.cfm?id=1378827)
+8. [Accessible Human-Error Interactions in AI Applications for the Blind](https://dl.acm.org/citation.cfm?id=3267321)
+9. [Blink and wink detection for mouse pointer control](https://dl.acm.org/citation.cfm?id=1839322)
 
 ### Learning Disabilities
-1. Developing an interface to support procedural memory training using a participatory-based approach
-2. TangiPlan: designing an assistive technology to enhance executive functioning among children with adhd
-3. Changing Family Practices with Assistive Technology: MOBERO Improves Morning and Bedtime Routines for Children with ADHD
-4. TalkBetter: family-driven mobile intervention care for children with language delay
-5. Designing Real Time Assistive Technologies: A Study of Children with ADHD
-6. Assisting Students with Intellectual and Developmental Disabilities in Inclusive Education with Smartwatches
-7. Using In-Situ Projection to Support Cognitively Impaired Workers at the Workplace
-8. Predicting ADHD Risk from Touch Interaction Data
-9. Exploring social dimensions of personal information management with adults with AD/HD
-10. ChillFish: A Respiration Game for Children with ADHD
-11. Would You Be Mine: Appropriating Minecraft as an Assistive Technology for Youth with Autism
-12. GeniAuti: Tracking Challenging Behaviors of Children with Autism for Data-Driven Interventions
+1. [Developing an interface to support procedural memory training using a participatory-based approach](https://dl.acm.org/citation.cfm?id=2377962)
+2. [TangiPlan: designing an assistive technology to enhance executive functioning among children with adhd](https://dl.acm.org/citation.cfm?id=2610475)
+3. [Changing Family Practices with Assistive Technology: MOBERO Improves Morning and Bedtime Routines for Children with ADHD](https://dl.acm.org/citation.cfm?id=2858157)
+4. [TalkBetter: family-driven mobile intervention care for children with language delay](https://dl.acm.org/citation.cfm?id=2531668)
+5. [Designing Real Time Assistive Technologies: A Study of Children with ADHD](https://dl.acm.org/citation.cfm?id=2838815)
+6. [Assisting Students with Intellectual and Developmental Disabilities in Inclusive Education with Smartwatches](https://dl.acm.org/citation.cfm?id=3173924)
+7. [Using In-Situ Projection to Support Cognitively Impaired Workers at the Workplace](https://dl.acm.org/citation.cfm?id=2809853)
+8. [Predicting ADHD Risk from Touch Interaction Data](https://dl.acm.org/citation.cfm?id=3242986)
+9. [Exploring social dimensions of personal information management with adults with AD/HD](https://dl.acm.org/citation.cfm?id=1754044)
+10. [ChillFish: A Respiration Game for Children with ADHD](https://dl.acm.org/citation.cfm?id=2839480)
+11. [Would You Be Mine: Appropriating Minecraft as an Assistive Technology for Youth with Autism](https://dl.acm.org/citation.cfm?id=2982172)
+12. [GeniAuti: Tracking Challenging Behaviors of Children with Autism for Data-Driven Interventions](https://dl.acm.org/citation.cfm?id=3240987)
 
 ### Software Engineering Tools for Accessibility
 1. CAN: composable accessibility infrastructure via data-driven crowdsourcing

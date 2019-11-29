@@ -19,18 +19,18 @@
 13. [Investigating Microinteractions for People with Visual Impairments and the Potential Role of On-Body Interaction](https://dl.acm.org/citation.cfm?id=3132536)
 
 ### Accessible Software for Deaf/HH
-1. A mean for communication between deaf and hearing pairs in inclusive educational settings: the Sessai app
-2. The Use of Smart Glasses for Lecture Comprehension by Deaf and Hard of Hearing Students
-3. Closed ASL Interpreting for Online Videos
-4. Deaf, Hard of Hearing, and Hearing Perspectives on Using Automatic Speech Recognition in Conversation
-5. SpeechBubbles: Enhancing Captioning Experiences for Deaf and Hard-of-Hearing People in Group Conversations
-6. Enhancing caption accessibility through simultaneous multimodal information: visual-tactile captions
-7. The Impact of Assistive Technology on Communication Quality Between Deaf and Hearing Individuals
-8. Visualizing non-speech sounds for the deaf
-9. A Personalizable Mobile Sound Detector App Design for Deaf and Hard-of-Hearing Users
-10. Evaluating the Usability of Automatically Generated Captions for People who are Deaf or Hard of Hearing
-11. Sign Language Support System for Viewing Sports Programs
-12. Towards More Robust Speech Interactions for Deaf and Hard of Hearing Users
+1. [A mean for communication between deaf and hearing pairs in inclusive educational settings: the Sessai app](https://dl.acm.org/citation.cfm?id=2746677)
+2. [The Use of Smart Glasses for Lecture Comprehension by Deaf and Hard of Hearing Students](https://dl.acm.org/citation.cfm?id=3053117)
+3. [Closed ASL Interpreting for Online Videos](https://dl.acm.org/citation.cfm?id=2982147)
+4. [Deaf, Hard of Hearing, and Hearing Perspectives on Using Automatic Speech Recognition in Conversation](https://dl.acm.org/citation.cfm?id=3134781)
+5. [SpeechBubbles: Enhancing Captioning Experiences for Deaf and Hard-of-Hearing People in Group Conversations](https://dl.acm.org/citation.cfm?id=3173867)
+6. [Enhancing caption accessibility through simultaneous multimodal information: visual-tactile captions](https://dl.acm.org/citation.cfm?id=2661381)
+7. [The Impact of Assistive Technology on Communication Quality Between Deaf and Hearing Individuals](https://dl.acm.org/citation.cfm?id=2998203)
+8. [Visualizing non-speech sounds for the deaf](https://dl.acm.org/citation.cfm?id=1090797)
+9. [A Personalizable Mobile Sound Detector App Design for Deaf and Hard-of-Hearing Users](https://dl.acm.org/citation.cfm?id=2982171)
+10. [Evaluating the Usability of Automatically Generated Captions for People who are Deaf or Hard of Hearing](https://dl.acm.org/citation.cfm?id=3132542)
+11. [Sign Language Support System for Viewing Sports Programs](https://dl.acm.org/citation.cfm?id=3134768)
+12. [Towards More Robust Speech Interactions for Deaf and Hard of Hearing Users](https://dl.acm.org/citation.cfm?id=3236343)
 
 ### Machine Learning for Accessibility
 1. Modeling Expertise in Assistive Navigation Interfaces for Blind People
